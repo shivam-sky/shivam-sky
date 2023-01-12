@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **sky code**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **angular , spring and ethical hacking**
 
-- 📫 How to reach me **hactech207@gmail.com**
+- 📫 How to reach me **pskycoding@gmail.com**
 
 - ⚡ True fact **I like to code frontend.**
 
